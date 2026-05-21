@@ -302,7 +302,7 @@ The dashboard includes:
 
 
 
-***-Ahmad Khan***
+***-Ahmad Raja Khan***
 
 ***-Aspiring Data Analyst***
 

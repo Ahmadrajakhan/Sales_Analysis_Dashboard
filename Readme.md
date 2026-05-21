@@ -326,7 +326,7 @@ The dashboard includes:
 
 
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 
 
